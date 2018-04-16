@@ -24,4 +24,11 @@ git clone https://github.com/rrkrasso/web-425-code-snippets.git
 cd web-425-code-snippets
 ```
 
+## Textbooks GitHub Repository
+
+```bash
+git clone https://github.com/Farata/angular2typescript.git
+cd angular2typescript
+```
+
 
